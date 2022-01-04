@@ -1,0 +1,7 @@
+# Tubi Ads List
+0.0.0.0 collector-9212.us.tvsquared.com
+0.0.0.0 collectorj.tvsquared.com
+0.0.0.0 collector-12834.tvsquared.com
+0.0.0.0 7e14d.v.fwmrm.net
+0.0.0.0 rainmaker.production-public.tubi.io
+0.0.0.0 ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com
