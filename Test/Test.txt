@@ -1,3 +1,4 @@
 # Test Ads List
 0.0.0.0 facebook.com
 0.0.0.0 ask.com
+0.0.0.0 wellstrungbluegrass.com
